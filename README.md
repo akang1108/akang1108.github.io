@@ -1,5 +1,0 @@
-# akang.info
-
-## Enjoy
-
-* life
