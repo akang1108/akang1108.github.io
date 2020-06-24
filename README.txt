@@ -1,3 +1,10 @@
+To run locally
+
+$ sudo gem install bundler jekyll
+$ bundle exec jekyll serve
+
+- See https://jekyllrb.com/
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A Jekyll port of the Spectral theme by HTML5 UP.
 Find the original non-jekyll theme at: http://html5up.net/
